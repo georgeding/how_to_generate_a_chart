@@ -1,2 +1,1 @@
-# python-practise
-first_repository
+how_to_generate_a_chart
